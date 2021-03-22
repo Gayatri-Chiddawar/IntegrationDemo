@@ -1,0 +1,15 @@
+﻿<Properties>
+  <Array name="active" />
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <Array name="bookmarks" />
+  <Array name="files" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{E919774F-218E-439D-97B6-570CF9B86845}</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution SerachProductOnAmazon[SerachProductOnAmazon[]]]&#xD;&#xA;Solution SerachProductOnAmazon\SerachProductOnAmazon\Reports&#xD;&#xA;Solution SerachProductOnAmazon" />
+  <StartupProject value="{E919774F-218E-439D-97B6-570CF9B86845}" />
+</Properties>

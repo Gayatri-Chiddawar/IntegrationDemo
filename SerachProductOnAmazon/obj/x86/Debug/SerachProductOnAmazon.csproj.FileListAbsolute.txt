@@ -1,0 +1,13 @@
+C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\SerachProductOnAmazon.rxtmg
+C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\SerachProductOnAmazon.rxtst
+C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\SerachProductOnAmazon.exe.config
+C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\SerachProductOnAmazon.xml
+C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\SerachProductOnAmazon.exe
+C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\SerachProductOnAmazon.pdb
+C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\obj\x86\Debug\SerachProductOnAmazon.csprojResolveAssemblyReference.cache
+C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\obj\x86\Debug\SerachProductOnAmazon.exe
+C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\obj\x86\Debug\SerachProductOnAmazon.pdb
+C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\TestSuite1.rxtst
+C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\TestSuite2.rxtst
+C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\SerachProductOnAmazon.rxsqc

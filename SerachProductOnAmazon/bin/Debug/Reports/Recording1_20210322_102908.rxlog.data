@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="1m"
+		durationms="60493"
+		type="root"
+		rid="ae7b73e44111e8c"
+		totalerrorcount="1"
+		totalwarningcount="1"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="g.vilas.chiddarwar"
+		rxversion="9.4.1.0"
+		host="P3CLAP-F1W4AFH"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="64bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1920x1080"
+		timestamp="3/22/2021 10:29:15 AM"
+		timestampiso="2021-03-22T04:59:15"
+		endtime="3/22/2021 10:30:15 AM"
+		timeoutfactor="1"
+		runid=""
+		sutversion=""
+		module="Recording1">
+		<detail>
+			Recording1
+		</detail>
+		<varbindings>
+		</varbindings>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.921"
+			timeRelativeToTestModuleStartTime="00:08.921"
+			timeWallClock="10:29:24"
+			time="00:08.921"
+			level="Warn"
+			category="Data">
+			<message>
+				The following module variables are not bound to a data column:<br/>ClickOnElement
+			</message>
+			<metainfo
+				loglvl="Warn">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:08.994"
+			timeRelativeToTestModuleStartTime="00:08.994"
+			timeWallClock="10:29:24"
+			time="00:08.994"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.Twotabsearchtextbox' at 175;39.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.amazon.in']//input[#'twotabsearchtextbox']"
+				itempath=".//input[#'twotabsearchtextbox']"
+				fullname="SerachProductOnAmazonRepository.ApplicationUnderTest.Twotabsearchtextbox"
+				id="dddc04e6337146beb6d4370c00532da9"
+				timeout="60000"
+				codefile="c:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\Recording1.cs"
+				codeline="95"
+				itemindex="0"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:11.554"
+			timeRelativeToTestModuleStartTime="00:11.554"
+			timeWallClock="10:29:26"
+			time="00:11.554"
+			level="Info"
+			category="Keyboard">
+			<message>
+				Key sequence 'New Apple iPhone 12 Pro (128GB) - Gold' with focus on 'ApplicationUnderTest.Twotabsearchtextbox'.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.amazon.in']//input[#'twotabsearchtextbox']"
+				itempath=".//input[#'twotabsearchtextbox']"
+				fullname="SerachProductOnAmazonRepository.ApplicationUnderTest.Twotabsearchtextbox"
+				id="dddc04e6337146beb6d4370c00532da9"
+				timeout="60000"
+				codefile="c:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\Recording1.cs"
+				codeline="99"
+				itemindex="1"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:12.784"
+			timeRelativeToTestModuleStartTime="00:12.784"
+			timeWallClock="10:29:28"
+			time="00:12.784"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.NavSearchSubmitButton' at 21;33.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.amazon.in']//input[#'nav-search-submit-button']"
+				itempath=".//input[#'nav-search-submit-button']"
+				fullname="SerachProductOnAmazonRepository.ApplicationUnderTest.NavSearchSubmitButton"
+				id="2dbb29f008f4425aba6b01758a36b8bf"
+				timeout="60000"
+				codefile="c:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\Recording1.cs"
+				codeline="103"
+				itemindex="2"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.484"
+			timeRelativeToTestModuleStartTime="00:13.484"
+			timeWallClock="10:29:28"
+			time="00:13.484"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Down item 'ApplicationUnderTest' at 1919;47.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.amazon.in']"
+				itempath="/dom[@domain='www.amazon.in']"
+				fullname="SerachProductOnAmazonRepository.ApplicationUnderTest.Self"
+				id="031f3934ae17424e8bd787a196792419"
+				timeout="30000"
+				codefile="c:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\Recording1.cs"
+				codeline="107"
+				itemindex="3"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:13.902"
+			timeRelativeToTestModuleStartTime="00:13.902"
+			timeWallClock="10:29:29"
+			time="00:13.902"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Down item 'ApplicationUnderTest' at 1919;47.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.amazon.in']"
+				itempath="/dom[@domain='www.amazon.in']"
+				fullname="SerachProductOnAmazonRepository.ApplicationUnderTest.Self"
+				id="031f3934ae17424e8bd787a196792419"
+				timeout="30000"
+				codefile="c:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\Recording1.cs"
+				codeline="112"
+				itemindex="4"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.302"
+			timeRelativeToTestModuleStartTime="00:14.302"
+			timeWallClock="10:29:29"
+			time="00:14.302"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest' at 0;0.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.amazon.in']"
+				itempath="/dom[@domain='www.amazon.in']"
+				fullname="SerachProductOnAmazonRepository.ApplicationUnderTest.Self"
+				id="031f3934ae17424e8bd787a196792419"
+				timeout="30000"
+				codefile="c:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\Recording1.cs"
+				codeline="117"
+				itemindex="5"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:14.800"
+			timeRelativeToTestModuleStartTime="00:14.800"
+			timeWallClock="10:29:30"
+			time="00:14.800"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Down item 'ApplicationUnderTest' at 1919;47.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.amazon.in']"
+				itempath="/dom[@domain='www.amazon.in']"
+				fullname="SerachProductOnAmazonRepository.ApplicationUnderTest.Self"
+				id="031f3934ae17424e8bd787a196792419"
+				timeout="30000"
+				codefile="c:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\Recording1.cs"
+				codeline="121"
+				itemindex="6"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.201"
+			timeRelativeToTestModuleStartTime="00:15.201"
+			timeWallClock="10:29:30"
+			time="00:15.201"
+			level="Info"
+			category="Mouse">
+			<message>
+				Mouse Left Click item 'ApplicationUnderTest.AddToCartButton' at 174;23.
+			</message>
+			<metainfo
+				type="repoitem"
+				path="/dom[@domain='www.amazon.in']//input[#'add-to-cart-button']"
+				itempath=".//input[#'add-to-cart-button']"
+				fullname="SerachProductOnAmazonRepository.ApplicationUnderTest.AddToCartButton"
+				id="bb26a7771cf4467b926d9c2b3250be33"
+				timeout="60000"
+				codefile="c:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\Recording1.cs"
+				codeline="126"
+				itemindex="7"
+				loglvl="Info">
+			</metainfo>
+		</item>
+		<item
+			timeRelativeToTestSuiteStartTime="01:00.483"
+			timeRelativeToTestModuleStartTime="01:00.483"
+			timeWallClock="10:30:15"
+			time="01:00.483"
+			level="Error"
+			category="Module">
+			<message>
+				The test run has been aborted by the user.
+			</message>
+			<metainfo
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

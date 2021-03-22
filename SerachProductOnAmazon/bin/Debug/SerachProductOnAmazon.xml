@@ -1,0 +1,309 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SerachProductOnAmazon</name>
+    </assembly>
+    <members>
+        <member name="T:SerachProductOnAmazon.CloseBrowser">
+             <summary>
+            The CloseBrowser recording.
+             </summary>
+        </member>
+        <member name="F:SerachProductOnAmazon.CloseBrowser.repo">
+            <summary>
+            Holds an instance of the SerachProductOnAmazonRepository repository.
+            </summary>
+        </member>
+        <member name="M:SerachProductOnAmazon.CloseBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.CloseBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:SerachProductOnAmazon.CloseBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:SerachProductOnAmazon.CloseBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:SerachProductOnAmazon.CloseBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:SerachProductOnAmazon.CloseBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:SerachProductOnAmazon.OpenBrowser">
+             <summary>
+            The OpenBrowser recording.
+             </summary>
+        </member>
+        <member name="F:SerachProductOnAmazon.OpenBrowser.repo">
+            <summary>
+            Holds an instance of the SerachProductOnAmazonRepository repository.
+            </summary>
+        </member>
+        <member name="M:SerachProductOnAmazon.OpenBrowser.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.OpenBrowser.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:SerachProductOnAmazon.OpenBrowser.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:SerachProductOnAmazon.OpenBrowser.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:SerachProductOnAmazon.OpenBrowser.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:SerachProductOnAmazon.OpenBrowser.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:SerachProductOnAmazon.Recording1">
+             <summary>
+            The Recording1 recording.
+             </summary>
+        </member>
+        <member name="F:SerachProductOnAmazon.Recording1.repo">
+            <summary>
+            Holds an instance of the SerachProductOnAmazonRepository repository.
+            </summary>
+        </member>
+        <member name="M:SerachProductOnAmazon.Recording1.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.Recording1.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.Recording1.ClickOnElement">
+            <summary>
+            Gets or sets the value of variable ClickOnElement.
+            </summary>
+        </member>
+        <member name="M:SerachProductOnAmazon.Recording1.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:SerachProductOnAmazon.Recording1.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:SerachProductOnAmazon.Recording1.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:SerachProductOnAmazon.Recording1.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
+            </summary>
+        </member>
+        <member name="T:SerachProductOnAmazon.SerachProductOnAmazonRepository">
+            <summary>
+            The class representing the SerachProductOnAmazonRepository element repository.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepository.Instance">
+            <summary>
+            Gets the singleton class instance representing the SerachProductOnAmazonRepository element repository.
+            </summary>
+        </member>
+        <member name="M:SerachProductOnAmazon.SerachProductOnAmazonRepository.#ctor">
+            <summary>
+            Repository class constructor.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepository.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepository.ApplicationUnderTest">
+            <summary>
+            The ApplicationUnderTest folder.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepository.P3CLAPF1W4AFH">
+            <summary>
+            The P3CLAPF1W4AFH folder.
+            </summary>
+        </member>
+        <member name="T:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders">
+            <summary>
+            Inner folder classes.
+            </summary>
+        </member>
+        <member name="T:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder">
+            <summary>
+            The ApplicationUnderTestAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new ApplicationUnderTest  folder.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.DownloadTheAmazonApp">
+            <summary>
+            The DownloadTheAmazonApp item.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.DownloadTheAmazonAppInfo">
+            <summary>
+            The DownloadTheAmazonApp item info.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.ASectionASpacingNoneGwCardLayout">
+            <summary>
+            The ASectionASpacingNoneGwCardLayout item.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.ASectionASpacingNoneGwCardLayoutInfo">
+            <summary>
+            The ASectionASpacingNoneGwCardLayout item info.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.Twotabsearchtextbox">
+            <summary>
+            The Twotabsearchtextbox item.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.TwotabsearchtextboxInfo">
+            <summary>
+            The Twotabsearchtextbox item info.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.NavSearchSubmitButton">
+            <summary>
+            The NavSearchSubmitButton item.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.NavSearchSubmitButtonInfo">
+            <summary>
+            The NavSearchSubmitButton item info.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.AScrollerAScrollerVerticalEwcScrol">
+            <summary>
+            The AScrollerAScrollerVerticalEwcScrol item.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.AScrollerAScrollerVerticalEwcScrolInfo">
+            <summary>
+            The AScrollerAScrollerVerticalEwcScrol item info.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.CenterCol">
+            <summary>
+            The CenterCol item.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.CenterColInfo">
+            <summary>
+            The CenterCol item info.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.AddToCartButton">
+            <summary>
+            The AddToCartButton item.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.AddToCartButtonInfo">
+            <summary>
+            The AddToCartButton item info.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.NewAppleIPhone12Mini64GBBlue">
+            <summary>
+            The NewAppleIPhone12Mini64GBBlue item.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.NewAppleIPhone12Mini64GBBlueInfo">
+            <summary>
+            The NewAppleIPhone12Mini64GBBlue item info.
+            </summary>
+        </member>
+        <member name="T:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.P3CLAPF1W4AFHAppFolder">
+            <summary>
+            The P3CLAPF1W4AFHAppFolder folder.
+            </summary>
+        </member>
+        <member name="M:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.P3CLAPF1W4AFHAppFolder.#ctor(Ranorex.Core.Repository.RepoGenBaseFolder)">
+            <summary>
+            Creates a new P3CLAPF1W4AFH  folder.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.P3CLAPF1W4AFHAppFolder.Self">
+            <summary>
+            The Self item.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.P3CLAPF1W4AFHAppFolder.SelfInfo">
+            <summary>
+            The Self item info.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.P3CLAPF1W4AFHAppFolder.P3CLAPF1W4AFH">
+            <summary>
+            The P3CLAPF1W4AFH item.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SerachProductOnAmazonRepositoryFolders.P3CLAPF1W4AFHAppFolder.P3CLAPF1W4AFHInfo">
+            <summary>
+            The P3CLAPF1W4AFH item info.
+            </summary>
+        </member>
+        <member name="T:__RxMain.__RxProgram">
+            <summary>
+            Modified Program class that ensures that the Ranorex System gets initialized and cleaned up
+            correctly. This file is auto-generated during project build. This class will invoke the
+            original 'Main' method implementation as needed.
+            </summary>
+        </member>
+        <member name="M:__RxMain.__RxProgram.Main(System.String[])">
+            <summary>
+            The entry point of the application.
+            </summary>
+            <param name="args">Contains any number of command line arguments.</param>
+            <returns>The return value of the projects original 'Main' implementation.</returns>
+        </member>
+    </members>
+</doc>

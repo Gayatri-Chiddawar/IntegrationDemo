@@ -1,0 +1,13 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="Recording1.rxrec" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="SerachProductOnAmazon.rxtst" />
+    <Element value="Recording1.rxrec" />
+    <Element value="Recording1.cs" />
+    <Element value="SerachProductOnAmazonRepository.cs" />
+  </Array>
+  <Properties name="projectSavedData" />
+</Properties>
