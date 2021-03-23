@@ -123,11 +123,15 @@ namespace SerachProductOnAmazon
             Mouse.ButtonDown(System.Windows.Forms.MouseButtons.Left);
             Delay.Milliseconds(0);
             
-            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'ApplicationUnderTest.AddToCartButton' at 174;23.", repo.ApplicationUnderTest.AddToCartButtonInfo, new RecordItemIndex(7));
-            repo.ApplicationUnderTest.AddToCartButton.Click("174;23");
+            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'ApplicationUnderTest.NewAppleIPhone12Pro128GBGold' at 109;18.", repo.ApplicationUnderTest.NewAppleIPhone12Pro128GBGoldInfo, new RecordItemIndex(7));
+            repo.ApplicationUnderTest.NewAppleIPhone12Pro128GBGold.Click("109;18");
             Delay.Milliseconds(0);
             
             Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'ApplicationUnderTest.AddToCartButton' at 174;23.", repo.ApplicationUnderTest.AddToCartButtonInfo, new RecordItemIndex(8));
+            repo.ApplicationUnderTest.AddToCartButton.Click("174;23");
+            Delay.Milliseconds(0);
+            
+            Report.Log(ReportLevel.Info, "Mouse", "Mouse Left Click item 'ApplicationUnderTest.AddToCartButton' at 174;23.", repo.ApplicationUnderTest.AddToCartButtonInfo, new RecordItemIndex(9));
             repo.ApplicationUnderTest.AddToCartButton.Click("174;23");
             Delay.Milliseconds(0);
             
