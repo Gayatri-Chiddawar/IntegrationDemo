@@ -108,6 +108,17 @@ name="SearchProductOnAmazonRepository">
 			searchtimeout="30000ms">
 				/dom[@domain='www.amazon.in']//div[#'search']/div[1]/div[2]/div/span[3]/div[2]/div[3]/?/?/span/div/div/div[2]/div[2]/div/div[1]//a[@href&gt;'https://www.amazon.in/New']/span[@innertext&gt;'New Apple iPhone 12 Mini (64GB)']
 			</item>
+			<item
+			addcaps="unknown,webelement,spantag"
+			capname="spantag"
+			id="2c6d4805-867d-4ad3-81b4-01f2a681099b"
+			name="NewAppleIPhone12Pro128GBGold"
+			refimgid="c1696002-e839-400b-a702-592e4fa843f0"
+			refpath="/dom[@domain='www.amazon.in']//div[#'search']/div[1]/div/div[1]/div/span[3]/div[2]/div[2]/div/span/div/div/div[2]/div[2]/div/div[1]/div/div/div[1]/h2/a/span[@innertext>'New Apple iPhone 12 Pro (128GB)']"
+			robustPath=""
+			searchtimeout="30000ms">
+				/dom[@domain='www.amazon.in']//div[#'search']/div[1]/div/div[1]/div/span[3]/div[2]/div[2]/?/?/span/div/div/div[2]/div[2]/div/div[1]//a[@href&gt;'https://www.amazon.in/New']/span[@innertext&gt;'New Apple iPhone 12 Pro (128GB)']
+			</item>
 			<basepath>
 				/dom[@domain='www.amazon.in']
 			</basepath>

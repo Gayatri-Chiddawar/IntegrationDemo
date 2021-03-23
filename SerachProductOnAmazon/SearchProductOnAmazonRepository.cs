@@ -104,6 +104,7 @@ namespace SerachProductOnAmazon
             RepoItemInfo _centercolInfo;
             RepoItemInfo _addtocartbuttonInfo;
             RepoItemInfo _newappleiphone12mini64gbblueInfo;
+            RepoItemInfo _newappleiphone12pro128gbgoldInfo;
 
             /// <summary>
             /// Creates a new ApplicationUnderTest  folder.
@@ -119,6 +120,7 @@ namespace SerachProductOnAmazon
                 _centercolInfo = new RepoItemInfo(this, "CenterCol", ".//div[#'search']/div[1]/div[2]/div/span[3]/div[2]/div[4]/?/?/span/div/div/div[2]/div[2]/div/div[1]//a[@href>'https://www.amazon.in/New']/span[@innertext>'New Apple iPhone 12 (128GB)' and @title=null()]", "", 30000, null, "c7178d3e-31fa-40ef-a0ad-333198d88b3e");
                 _addtocartbuttonInfo = new RepoItemInfo(this, "AddToCartButton", ".//input[#'add-to-cart-button']", "", 30000, null, "bb26a777-1cf4-467b-926d-9c2b3250be33");
                 _newappleiphone12mini64gbblueInfo = new RepoItemInfo(this, "NewAppleIPhone12Mini64GBBlue", ".//div[#'search']/div[1]/div[2]/div/span[3]/div[2]/div[3]/?/?/span/div/div/div[2]/div[2]/div/div[1]//a[@href>'https://www.amazon.in/New']/span[@innertext>'New Apple iPhone 12 Mini (64GB)']", "", 30000, null, "facd8b44-6e4f-42ff-b1bf-0900ce64300e");
+                _newappleiphone12pro128gbgoldInfo = new RepoItemInfo(this, "NewAppleIPhone12Pro128GBGold", ".//div[#'search']/div[1]/div/div[1]/div/span[3]/div[2]/div[2]/?/?/span/div/div/div[2]/div[2]/div/div[1]//a[@href>'https://www.amazon.in/New']/span[@innertext>'New Apple iPhone 12 Pro (128GB)']", "", 30000, null, "2c6d4805-867d-4ad3-81b4-01f2a681099b");
             }
 
             /// <summary>
@@ -334,6 +336,30 @@ namespace SerachProductOnAmazon
                 get
                 {
                     return _newappleiphone12mini64gbblueInfo;
+                }
+            }
+
+            /// <summary>
+            /// The NewAppleIPhone12Pro128GBGold item.
+            /// </summary>
+            [RepositoryItem("2c6d4805-867d-4ad3-81b4-01f2a681099b")]
+            public virtual Ranorex.SpanTag NewAppleIPhone12Pro128GBGold
+            {
+                get
+                {
+                    return _newappleiphone12pro128gbgoldInfo.CreateAdapter<Ranorex.SpanTag>(true);
+                }
+            }
+
+            /// <summary>
+            /// The NewAppleIPhone12Pro128GBGold item info.
+            /// </summary>
+            [RepositoryItemInfo("2c6d4805-867d-4ad3-81b4-01f2a681099b")]
+            public virtual RepoItemInfo NewAppleIPhone12Pro128GBGoldInfo
+            {
+                get
+                {
+                    return _newappleiphone12pro128gbgoldInfo;
                 }
             }
         }
