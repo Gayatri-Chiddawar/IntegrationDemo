@@ -17,6 +17,12 @@
 			name="SearchProductOnAmazon"
 			reportlevel="Info;20">
 			</testcase>
+			<testmodule
+			id="60916b35-0b90-40a2-93b7-d4782386846a"
+			name="CloseBrowser"
+			ref="8d87072a-1e18-4878-8a33-3ef6cd94c545"
+			type="Recording">
+			</testmodule>
 			<setup
 			id="6a349eab-7950-46ad-8b66-ff932c5c14c3"
 			name="setup">
@@ -84,6 +90,10 @@
 						name="teardown">
 							<testmodule
 							id="2a15d7ef-e9fc-41ea-8b62-d192b8b7625f"
+							name="CloseBrowser">
+							</testmodule>
+							<testmodule
+							id="60916b35-0b90-40a2-93b7-d4782386846a"
 							name="CloseBrowser">
 							</testmodule>
 						</teardown>
