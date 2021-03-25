@@ -2,6 +2,18 @@
 <testsuitedoc>
 	<testsuiteentryhierarchy>
 		<flatlistofchildren>
+			<testmodule
+			id="00d4ad3d-a849-46b1-a37c-9a050fa7c039"
+			name="TC1_SerachForProduct"
+			ref="ddbfefc3-6d81-4e1f-8672-264ec358a603"
+			type="Recording">
+			</testmodule>
+			<testmodule
+			id="72ef9f75-a245-47fc-a6a8-f7152a62afd5"
+			name="CloseBrowser"
+			ref="8d87072a-1e18-4878-8a33-3ef6cd94c545"
+			type="Recording">
+			</testmodule>
 			<testcase
 			id="a13421fe-d7b4-4f6c-81bf-3759cf64d96b"
 			name="TC3">
@@ -15,6 +27,12 @@
 			name="TestSuite2"
 			reportlevel="Info;20">
 			</testcase>
+			<testmodule
+			id="b3259d10-f75b-4cab-8bf0-39fb4894d5d0"
+			name="OpenBrowser"
+			ref="3b390cad-dd2c-4f2b-b593-cd048345f564"
+			type="Recording">
+			</testmodule>
 			<testsuite
 			ReportTime="RelativeToTestSuiteStartTime"
 			TracingScreenshotMode="Foreground"
@@ -49,14 +67,26 @@
 					<testcase
 					id="a4ed2bf2-cd50-49e7-bada-a6a535b416e7"
 					name="TC1">
+						<testmodule
+						id="b3259d10-f75b-4cab-8bf0-39fb4894d5d0"
+						name="OpenBrowser">
+						</testmodule>
 					</testcase>
 					<testcase
 					id="f7c6e343-abd1-4dfe-9021-2b6052ca929f"
 					name="TC2">
+						<testmodule
+						id="00d4ad3d-a849-46b1-a37c-9a050fa7c039"
+						name="TC1_SerachForProduct">
+						</testmodule>
 					</testcase>
 					<testcase
 					id="a13421fe-d7b4-4f6c-81bf-3759cf64d96b"
 					name="TC3">
+						<testmodule
+						id="72ef9f75-a245-47fc-a6a8-f7152a62afd5"
+						name="CloseBrowser">
+						</testmodule>
 					</testcase>
 				</testcase>
 			</testsuite>
