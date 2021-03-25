@@ -22,7 +22,7 @@ using Ranorex.Core.Testing;
 
 namespace SerachProductOnAmazon
 {
-    public partial class Recording1
+    public partial class TC2_AddProductToCart
     {
         /// <summary>
         /// This method gets called right after the recording has been started.

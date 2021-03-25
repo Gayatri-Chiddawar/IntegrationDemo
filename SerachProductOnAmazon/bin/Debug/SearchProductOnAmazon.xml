@@ -261,6 +261,16 @@
             The NewAppleIPhone12Mini64GBBlue item info.
             </summary>
         </member>
+        <member name="P:SerachProductOnAmazon.SearchProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.NewAppleIPhone12Pro128GBGold">
+            <summary>
+            The NewAppleIPhone12Pro128GBGold item.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.SearchProductOnAmazonRepositoryFolders.ApplicationUnderTestAppFolder.NewAppleIPhone12Pro128GBGoldInfo">
+            <summary>
+            The NewAppleIPhone12Pro128GBGold item info.
+            </summary>
+        </member>
         <member name="T:SerachProductOnAmazon.SearchProductOnAmazonRepositoryFolders.P3CLAPF1W4AFHAppFolder">
             <summary>
             The P3CLAPF1W4AFHAppFolder folder.

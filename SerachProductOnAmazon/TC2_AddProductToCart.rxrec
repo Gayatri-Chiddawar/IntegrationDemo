@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="61633636-627d-44e6-8ab0-9593cdac8d2f"
+mode="Global">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="TC2_AddProductToCart"
+	namespace="SerachProductOnAmazon">
+	</codegen>
+	<variables>
+	</variables>
+	<recorditems>
+	</recorditems>
+	<repository
+	id="5f611665-1fda-41e3-acbb-3e489cee426c"
+	name="SearchProductOnAmazonRepository"
+	relativepath="SearchProductOnAmazonRepository.rxrep">
+		<codegen
+		classname="SearchProductOnAmazonRepository"
+		namespace="SerachProductOnAmazon">
+		</codegen>
+		<rootfolder
+		id="0a9a4765-5722-4981-926c-918e49807ce5"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		TC2_AddProductToCart.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>

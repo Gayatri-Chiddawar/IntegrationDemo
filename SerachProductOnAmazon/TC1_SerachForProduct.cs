@@ -24,22 +24,22 @@ namespace SerachProductOnAmazon
 {
 #pragma warning disable 0436 //(CS0436) The type 'type' in 'assembly' conflicts with the imported type 'type2' in 'assembly'. Using the type defined in 'assembly'.
     /// <summary>
-    ///The Recording1 recording.
+    ///The TC1_SerachForProduct recording.
     /// </summary>
     [TestModule("ddbfefc3-6d81-4e1f-8672-264ec358a603", ModuleType.Recording, 1)]
-    public partial class Recording1 : ITestModule
+    public partial class TC1_SerachForProduct : ITestModule
     {
         /// <summary>
         /// Holds an instance of the SearchProductOnAmazonRepository repository.
         /// </summary>
         public static SearchProductOnAmazonRepository repo = SearchProductOnAmazonRepository.Instance;
 
-        static Recording1 instance = new Recording1();
+        static TC1_SerachForProduct instance = new TC1_SerachForProduct();
 
         /// <summary>
         /// Constructs a new instance.
         /// </summary>
-        public Recording1()
+        public TC1_SerachForProduct()
         {
             ClickOnElement = "1106;751";
         }
@@ -47,7 +47,7 @@ namespace SerachProductOnAmazon
         /// <summary>
         /// Gets a static instance of this recording.
         /// </summary>
-        public static Recording1 Instance
+        public static TC1_SerachForProduct Instance
         {
             get { return instance; }
         }

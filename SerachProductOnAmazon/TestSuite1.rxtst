@@ -33,7 +33,7 @@
 			</testcase>
 			<testmodule
 			id="a27a1139-0c55-41d4-8a5a-e3f1590e63d2"
-			name="Recording1"
+			name="TC1_SerachForProduct"
 			ref="ddbfefc3-6d81-4e1f-8672-264ec358a603"
 			type="Recording">
 			</testmodule>
@@ -52,6 +52,10 @@
 			ref="8d87072a-1e18-4878-8a33-3ef6cd94c545"
 			type="Recording">
 			</testmodule>
+			<testcase
+			id="f430eade-e670-4875-9a4d-af62ba678048"
+			name="TC2">
+			</testcase>
 		</flatlistofchildren>
 		<childhierarchy>
 			<testsuite
@@ -73,12 +77,16 @@
 						</testmodule>
 						<testmodule
 						id="a27a1139-0c55-41d4-8a5a-e3f1590e63d2"
-						name="Recording1">
+						name="TC1_SerachForProduct">
 						</testmodule>
 						<testmodule
 						id="e705a2ad-3576-424e-8866-7825e92d4b96"
 						name="CloseBrowser">
 						</testmodule>
+					</testcase>
+					<testcase
+					id="f430eade-e670-4875-9a4d-af62ba678048"
+					name="TC2">
 					</testcase>
 				</testcase>
 			</testsuite>

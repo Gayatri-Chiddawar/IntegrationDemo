@@ -19,7 +19,7 @@ mode="Desktop">
 		True
 	</useDefaultItemLogging>
 	<codegen
-	classname="Recording1"
+	classname="TC1_SerachForProduct"
 	namespace="SerachProductOnAmazon">
 	</codegen>
 	<variables>
@@ -3041,7 +3041,7 @@ ooAKKKKACiiigAooooAKbJ/q2+hoooA//9k=
 	</repository>
 	<usercodefile
 	lang="CSharp">
-		Recording1.UserCode.cs
+		TC1_SerachForProduct.UserCode.cs
 	</usercodefile>
 	<references>
 	</references>
