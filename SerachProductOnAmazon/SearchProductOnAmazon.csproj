@@ -221,10 +221,6 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       <id>490978d0-7469-45ed-80a2-a7d38e597d0e</id>
     </Content>
-    <Content Include="TestSuite2.rxtst">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-      <id>d9735fbe-5eef-43c5-b0ad-dd04f792583a</id>
-    </Content>
     <None Include="app.config">
       <id>9a96533b-7a07-4db4-9b54-558c115b4b71</id>
     </None>
