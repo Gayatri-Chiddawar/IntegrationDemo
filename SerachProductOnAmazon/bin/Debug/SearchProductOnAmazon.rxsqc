@@ -6,7 +6,7 @@
   },
   {
     "Enabled": "True",
-    "TestSuite": "TestSuite1",
+    "TestSuite": "TestSuite2",
     "RunConfig": "TestRun"
   }
 ]

@@ -4,6 +4,11 @@
         <name>SearchProductOnAmazon</name>
     </assembly>
     <members>
+        <member name="T:SerachProductOnAmazon.Class1">
+            <summary>
+            Description of Class1.
+            </summary>
+        </member>
         <member name="T:SerachProductOnAmazon.CloseBrowser">
              <summary>
             The CloseBrowser recording.
@@ -82,37 +87,37 @@
             It can be used to execute recording specific initialization code.
             </summary>
         </member>
-        <member name="T:SerachProductOnAmazon.Recording1">
+        <member name="T:SerachProductOnAmazon.TC1_SerachForProduct">
              <summary>
-            The Recording1 recording.
+            The TC1_SerachForProduct recording.
              </summary>
         </member>
-        <member name="F:SerachProductOnAmazon.Recording1.repo">
+        <member name="F:SerachProductOnAmazon.TC1_SerachForProduct.repo">
             <summary>
             Holds an instance of the SearchProductOnAmazonRepository repository.
             </summary>
         </member>
-        <member name="M:SerachProductOnAmazon.Recording1.#ctor">
+        <member name="M:SerachProductOnAmazon.TC1_SerachForProduct.#ctor">
             <summary>
             Constructs a new instance.
             </summary>
         </member>
-        <member name="P:SerachProductOnAmazon.Recording1.Instance">
+        <member name="P:SerachProductOnAmazon.TC1_SerachForProduct.Instance">
             <summary>
             Gets a static instance of this recording.
             </summary>
         </member>
-        <member name="P:SerachProductOnAmazon.Recording1.ClickOnElement">
+        <member name="P:SerachProductOnAmazon.TC1_SerachForProduct.ClickOnElement">
             <summary>
             Gets or sets the value of variable ClickOnElement.
             </summary>
         </member>
-        <member name="M:SerachProductOnAmazon.Recording1.Start">
+        <member name="M:SerachProductOnAmazon.TC1_SerachForProduct.Start">
             <summary>
-            Starts the replay of the static recording <see cref="P:SerachProductOnAmazon.Recording1.Instance"/>.
+            Starts the replay of the static recording <see cref="P:SerachProductOnAmazon.TC1_SerachForProduct.Instance"/>.
             </summary>
         </member>
-        <member name="M:SerachProductOnAmazon.Recording1.Ranorex#Core#Testing#ITestModule#Run">
+        <member name="M:SerachProductOnAmazon.TC1_SerachForProduct.Ranorex#Core#Testing#ITestModule#Run">
             <summary>
             Performs the playback of actions in this recording.
             </summary>
@@ -120,7 +125,7 @@
             instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
             that will in turn invoke this method.</remarks>
         </member>
-        <member name="M:SerachProductOnAmazon.Recording1.Init">
+        <member name="M:SerachProductOnAmazon.TC1_SerachForProduct.Init">
             <summary>
             This method gets called right after the recording has been started.
             It can be used to execute recording specific initialization code.
@@ -299,6 +304,45 @@
         <member name="P:SerachProductOnAmazon.SearchProductOnAmazonRepositoryFolders.P3CLAPF1W4AFHAppFolder.P3CLAPF1W4AFHInfo">
             <summary>
             The P3CLAPF1W4AFH item info.
+            </summary>
+        </member>
+        <member name="T:SerachProductOnAmazon.TC2_AddProductToCart">
+             <summary>
+            The TC2_AddProductToCart recording.
+             </summary>
+        </member>
+        <member name="F:SerachProductOnAmazon.TC2_AddProductToCart.repo">
+            <summary>
+            Holds an instance of the SearchProductOnAmazonRepository repository.
+            </summary>
+        </member>
+        <member name="M:SerachProductOnAmazon.TC2_AddProductToCart.#ctor">
+            <summary>
+            Constructs a new instance.
+            </summary>
+        </member>
+        <member name="P:SerachProductOnAmazon.TC2_AddProductToCart.Instance">
+            <summary>
+            Gets a static instance of this recording.
+            </summary>
+        </member>
+        <member name="M:SerachProductOnAmazon.TC2_AddProductToCart.Start">
+            <summary>
+            Starts the replay of the static recording <see cref="P:SerachProductOnAmazon.TC2_AddProductToCart.Instance"/>.
+            </summary>
+        </member>
+        <member name="M:SerachProductOnAmazon.TC2_AddProductToCart.Ranorex#Core#Testing#ITestModule#Run">
+            <summary>
+            Performs the playback of actions in this recording.
+            </summary>
+            <remarks>You should not call this method directly, instead pass the module
+            instance to the <see cref="M:Ranorex.Core.Testing.TestModuleRunner.Run(Ranorex.Core.Testing.ITestModule)"/> method
+            that will in turn invoke this method.</remarks>
+        </member>
+        <member name="M:SerachProductOnAmazon.TC2_AddProductToCart.Init">
+            <summary>
+            This method gets called right after the recording has been started.
+            It can be used to execute recording specific initialization code.
             </summary>
         </member>
         <member name="T:__RxMain.__RxProgram">

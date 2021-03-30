@@ -54,7 +54,7 @@
 			</testsuite>
 			<testmodule
 			id="be2df01c-5f2d-4c06-9871-37bc7c9ff18f"
-			name="Recording1"
+			name="TC1_SerachForProduct"
 			ref="ddbfefc3-6d81-4e1f-8672-264ec358a603"
 			type="Recording">
 			</testmodule>
@@ -83,7 +83,7 @@
 						</setup>
 						<testmodule
 						id="be2df01c-5f2d-4c06-9871-37bc7c9ff18f"
-						name="Recording1">
+						name="TC1_SerachForProduct">
 						</testmodule>
 						<teardown
 						id="fdec63aa-76f8-451c-b345-cdc0386fbf3b"

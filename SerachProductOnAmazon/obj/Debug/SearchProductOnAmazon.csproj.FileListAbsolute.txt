@@ -3,7 +3,6 @@ C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProdu
 C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\NewCustomTemplate1\RanorexReport.xsl
 C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\NewCustomTemplate1\View.rxlog
 C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\NewCustomTemplate1\View.rxlog.data
-C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\TestSuite1.rxtst
 C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\SearchProductOnAmazon.rxsqc
 C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\SearchProductOnAmazon.rxtmg
 C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\SearchProductOnAmazon.rxtst
@@ -17,3 +16,4 @@ C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProdu
 C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\obj\Debug\SearchProductOnAmazon.csproj.CopyComplete
 C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\obj\Debug\SearchProductOnAmazon.exe
 C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\obj\Debug\SearchProductOnAmazon.pdb
+C:\Users\g.vilas.chiddarwar\Documents\Ranorex\RanorexStudio Projects\SerachProductOnAmazon\SerachProductOnAmazon\bin\Debug\TestSuite2.rxtst
